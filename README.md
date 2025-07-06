@@ -37,11 +37,11 @@ Aplikacja jest dostępna pod adresem: tablicaogloszen-production-85ba.up.railway
 ## Screeny aplikacji
 
 ### Uruchomiony Docker
-![Docker run](screenshots/docker_running.png)
+![Docker run](screenshots/docker_running.png.png)
 
 ### Widok strony głównej
-![Strona główna](screenshots/homepage.png)
+![Strona główna](screenshots/homepage.png.png)
 
 ### Widok strony głównej railway
-![Railway](screenshots/railway_live.png)
+![Railway](screenshots/railway_live.png.png)
 
